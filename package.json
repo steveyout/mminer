@@ -1,0 +1,10 @@
+{
+  "name": "coinhive",
+  "version": "0.0.1",
+  "dependencies": {
+    "react-coinhive": "^1.0.2",
+    "react-dom": "^16.6.3",
+    "coin-hive": "^1.10.0",
+    "telegraf": "^3.25.5"
+  }
+}
