@@ -1,6 +1,9 @@
 {
   "name": "coinhive",
   "version": "0.0.1",
+  "scripts": {
+    "start": "node Miner.js"
+  },
   "dependencies": {
     "react-coinhive": "^1.0.2",
     "react-dom": "^16.6.3",
